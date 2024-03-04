@@ -1,2 +1,2 @@
-# asat
-Be Human  |  Build AI
+# åsât
+BE Human | Build AI
